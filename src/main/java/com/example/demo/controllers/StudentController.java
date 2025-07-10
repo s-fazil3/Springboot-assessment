@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/student") // ✅ All routes now start with /student
+@RequestMapping("/student")
 public class StudentController {
 
     @Autowired
