@@ -1,13 +1,13 @@
-package com.example.Springboot_Internship;
+package com.example.springbootfirst;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Springboot_InternshipApplicationTests {
+class SpringbootfirstApplicationTests {
 
 	@Test
-	void cont extLoads() {
+	void contextLoads() {
 	}
 
 }
